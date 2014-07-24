@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string name="app_name">Timer-MVK</string>
+    <string name="app_name">Timer-MVK-Hello</string>
 
     <string name="timer_finished">Timer finished </string>
 
